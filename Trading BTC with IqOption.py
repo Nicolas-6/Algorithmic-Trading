@@ -2,7 +2,7 @@
 """
 Created on Sat May 21 18:29:36 2022
 
-@author: 06nic
+@author: nicolas
 """
 
 # library essential
